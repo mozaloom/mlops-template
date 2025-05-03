@@ -1,4 +1,3 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526669888)
 # MLOps Template Repository
 
 ![Banner](images/video-banner.gif)
@@ -52,13 +51,6 @@ This repository is Codespaces-ready. To use:
 
 - `example-notebook.ipynb`: Basic ML workflow demonstration
 - `example-lesson.ipynb`: Educational notebook with MLOps best practices
-
-## Translations
-
-Documentation is available in:
-- [English](README.md)
-- [Spanish](translations/es/README.md)
-- [Brazilian Portuguese](translations/pt-BR/README.md)
 
 ## Contributing
 
