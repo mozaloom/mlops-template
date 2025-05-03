@@ -1,7 +1,5 @@
 # MLOps Template Repository
 
-![Banner](images/video-banner.gif)
-
 A standardized template for machine learning operations projects, providing structure and best practices for MLOps workflows.
 
 ## Overview
